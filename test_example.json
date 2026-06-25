@@ -5,7 +5,7 @@
     "sprites": [
         {
             "name": "test",
-            "url": "https://example.com/player.sprite3"
+            "url": "https://raw.githubusercontent.com/YippeeJed/ExternalSB3Loader/main/Sprite1.pms"
         },
     ],
 
